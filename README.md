@@ -1,3 +1,3 @@
-# wordle_clone
+# wordle
 
-A simple vanilla js clone of Wordle
+clone of Wordle
